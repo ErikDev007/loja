@@ -1,0 +1,26 @@
+#nav-bar {
+    z-index: 999;
+}
+#bd {
+    background-image: url(https://static.vecteezy.com/ti/vetor-gratis/p3/20315135-dragao-cabeca-ilustracao-e-uma-impressionante-representacao-do-isto-mitico-criatura-captura-a-poder-e-misterio-do-a-dragao-uma-simbolo-do-forca-e-majestade-vetor.jpg);
+}
+.imgs {
+    height: 500px;
+    width: 200px;
+}
+
+.nav-bar-img {
+    height: 48px;
+    width: 48px;
+}
+#container {
+    width: 100%;
+}
+#cards-group {
+    padding-top: 10px;
+}
+
+.cards-img {
+    height: 300px;
+    width: 100px;
+}
