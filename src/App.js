@@ -289,7 +289,7 @@ Descrição
           <a className='nav-link text-white' href='https://www.linkedin.com/in/erik-lima-do-nascimento-b18b7524b/' target='_blank'>Linkedin</a>
         </li>
         <li className='nav-item'>
-          <a className='nav-link text-white' href='cards-group' target='_blank'>portiflio</a>
+          <a className='nav-link text-white' href='https://erik-lima.netlify.app' target='_blank'>portiflio</a>
         </li>
         <li className='nav-item'>
           <a className='nav-link text-white' href='https://api.whatsapp.com/send?phone=5585992013054' target='_blank'>Whatsapp</a>
